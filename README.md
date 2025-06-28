@@ -47,6 +47,14 @@ gcc contact_manager.c -o contact_manager
 
 ---
 
+## 📽 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/vFHBDJl9NMM/0.jpg)](https://youtu.be/vFHBDJl9NMM)
+
+Click the image above or [watch the full demo on YouTube](https://youtu.be/vFHBDJl9NMM).
+
+---
+
 ## 💻 Sample Output
 
 ```text

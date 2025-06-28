@@ -27,11 +27,11 @@ This is a simple command-line based **Contact Management System** built in **C p
 ### ✅ Compile
 gcc contact_manager.c -o contact_manager
 
-▶️ Run
+### ▶️ Run
 
 ./contact_manager
 
-📌 Sample Output (Demo)
+### 📌 Sample Output (Demo)
 
 1.Add Contact
 2.View Contacts
@@ -48,7 +48,7 @@ Enter email: aravind@example.com
 Contact added successfully!
 
 
-🚀 Future Improvements (Optional)
+### 🚀 Future Improvements
 1.Save contacts to a file (persistence)
 2.Add input validation (email format, phone format)
 3.GUI version using C/C++

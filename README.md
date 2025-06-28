@@ -1,6 +1,6 @@
-# 📇 Contact Management System (C Language)
+# 📇 Contacts Management System (C Language)
 
-This is a simple **Contact Management System** written in the **C programming language**. It is a terminal-based application that allows users to manage contacts by adding, viewing, editing, deleting, and searching entries. ANSI escape codes are used to enhance the terminal interface with colored output.
+This is a simple **Contacts Management System** written in the **C programming language**. It is a terminal-based application that allows users to manage contacts by adding, viewing, editing, deleting, and searching entries. ANSI escape codes are used to enhance the terminal interface with colored output.
 
 ---
 
